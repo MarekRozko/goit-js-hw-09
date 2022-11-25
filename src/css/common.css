@@ -37,15 +37,15 @@ img {
 input {
   font-size: 20;
 }
-button {
-  background-color: greenyellow;
-  font-size: 20;
-  color: #212121;
-  border-radius: 4px;
-  cursor: pointer;
-}
+
 .scoreboard {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+button[data-start] {
+  background-color: greenyellow;
+  font-size: 20px;
+  color: #212121;
+  border-radius: 4px;
 }
