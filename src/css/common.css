@@ -48,4 +48,5 @@ button[data-start] {
   font-size: 20px;
   color: #212121;
   border-radius: 4px;
+  cursor: pointer;
 }
