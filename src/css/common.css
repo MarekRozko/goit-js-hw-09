@@ -50,3 +50,6 @@ button[data-start] {
   border-radius: 4px;
   cursor: pointer;
 }
+.btn {
+  font-size: 20px;
+}
